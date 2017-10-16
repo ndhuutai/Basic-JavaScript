@@ -42,6 +42,10 @@
           <option name="url" value="https://github.com/ndhuutai/Node-Express-Lab.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ndhuutai/mongo-I-mini.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Lambda School\" />
